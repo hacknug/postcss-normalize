@@ -1,5 +1,11 @@
 # Changes to PostCSS Normalize
 
+### 8.0.0 (May 12, 2019)
+
+- Updated: `browserslist` to 4.5.6 (minor)
+- Updated: `postcss` to 7.0.16 (patch)
+- Updated: Node 8+ compatibility (major)
+
 ### 7.0.1 (August 24, 2018)
 
 - Use postcss-browser-comments v2.0.0 (major, but a patch for this project)
